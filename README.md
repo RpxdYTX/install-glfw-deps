@@ -1,2 +1,2 @@
 # Install GLFW Dependencies
-Install GLFW build-dependencies on ubuntu with Github Actions.
+Install GLFW build-dependencies on Linux with Github Actions.
